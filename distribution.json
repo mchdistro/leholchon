@@ -186,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 160307,
-            "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/fabricmods/required/caramelChat-mc1.21.11-fabric-1.2.2.jar",
+            "url": "https://cdn.modrinth.com/data/M4vJe1FJ/versions/onMb6fcx/caramelChat-mc1.21.11-fabric-1.2.2.jar",
             "MD5": "5e5791c9663092f63c1ffbe149f03a44"
           }
         },

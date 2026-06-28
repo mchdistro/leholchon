@@ -181,16 +181,6 @@
           }
         },
         {
-          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
-          "name": "CaramelChat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 160307,
-            "url": "https://cdn.modrinth.com/data/M4vJe1FJ/versions/onMb6fcx/caramelChat-mc1.21.11-fabric-1.2.2.jar",
-            "MD5": "5e5791c9663092f63c1ffbe149f03a44"
-          }
-        },
-        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:21.11.153@jar",
           "name": "Cloth Config v20",
           "type": "FabricMod",
@@ -408,6 +398,16 @@
             "size": 4193594,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/fabricmods/required/journeymap-fabric-1.21.11-6.0.0.jar",
             "MD5": "12674a4335e7374dee92139991aba90a"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.6+mc1.21.11@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 716367,
+            "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/fabricmods/required/koreanpatch-fabric-1.9.6+mc1.21.11.jar",
+            "MD5": "aafe45adf49d5888efb061928c5449cc"
           }
         },
         {

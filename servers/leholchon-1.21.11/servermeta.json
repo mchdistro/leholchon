@@ -1,0 +1,41 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/leholchon/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "leholchon",
+    "description": "Minecraft 1.21.11 (Fabric v0.19.3)",
+    "icon": "https://github.com/mchdistro/leholchon/raw/main/server-icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false,
+    "javaOptions": {
+      "supported": "=>21",
+      "suggestedMajor": 21,
+      "platformOptions": [
+        {
+          "platform": "win32",
+          "architecture": "x64",
+          "distribution": "TEMURIN"
+        }
+      ],
+      "ram": {
+        "minimum": 4096,
+        "recommended": 8192
+      }
+    }
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt", "config/**/**.**", "journeymap/**/**.**"]
+    }
+  ]
+}

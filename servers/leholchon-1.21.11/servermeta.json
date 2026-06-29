@@ -5,14 +5,14 @@
     "name": "leholchon",
     "description": "Minecraft 1.21.11 (Fabric v0.19.3)",
     "icon": "https://github.com/mchdistro/leholchon/raw/main/server-icon.png",
-    "address": "localhost:25565",
+    "address": "142.248.228.14:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": false,
+    "autoconnect": true,
     "javaOptions": {
       "supported": "=>21",
       "suggestedMajor": 21,

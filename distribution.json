@@ -635,7 +635,7 @@
           "name": "bettergrass.json",
           "type": "File",
           "artifact": {
-            "size": 823,
+            "size": 786,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/bettergrass.json",
             "path": "config/bettergrass.json"
           }
@@ -655,7 +655,7 @@
           "name": "continuity.json",
           "type": "File",
           "artifact": {
-            "size": 96,
+            "size": 92,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/continuity.json",
             "path": "config/continuity.json"
           }
@@ -665,7 +665,7 @@
           "name": "controlify.json",
           "type": "File",
           "artifact": {
-            "size": 559,
+            "size": 538,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/controlify.json",
             "path": "config/controlify.json"
           }
@@ -675,7 +675,7 @@
           "name": "cubes-without-borders.json",
           "type": "File",
           "artifact": {
-            "size": 208,
+            "size": 202,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/cubes-without-borders.json",
             "path": "config/cubes-without-borders.json"
           }
@@ -715,7 +715,7 @@
           "name": "entityculling.json",
           "type": "File",
           "artifact": {
-            "size": 1990,
+            "size": 1921,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/entityculling.json",
             "path": "config/entityculling.json"
           }
@@ -725,7 +725,7 @@
           "name": "entity_model_features.json",
           "type": "File",
           "artifact": {
-            "size": 1280,
+            "size": 1245,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/entity_model_features.json",
             "path": "config/entity_model_features.json"
           }
@@ -735,7 +735,7 @@
           "name": "entity_texture_features.json",
           "type": "File",
           "artifact": {
-            "size": 1452,
+            "size": 1413,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/entity_texture_features.json",
             "path": "config/entity_texture_features.json"
           }
@@ -745,7 +745,7 @@
           "name": "etf_warnings.json",
           "type": "File",
           "artifact": {
-            "size": 30,
+            "size": 28,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/etf_warnings.json",
             "path": "config/etf_warnings.json"
           }
@@ -765,7 +765,7 @@
           "name": "fastquit.toml",
           "type": "File",
           "artifact": {
-            "size": 128,
+            "size": 123,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/fastquit.toml",
             "path": "config/fastquit.toml"
           }
@@ -795,7 +795,7 @@
           "name": "immediatelyfast.json",
           "type": "File",
           "artifact": {
-            "size": 1003,
+            "size": 983,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/immediatelyfast.json",
             "path": "config/immediatelyfast.json"
           }
@@ -855,7 +855,7 @@
           "name": "languagereload.json",
           "type": "File",
           "artifact": {
-            "size": 216,
+            "size": 206,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/languagereload.json",
             "path": "config/languagereload.json"
           }
@@ -895,7 +895,7 @@
           "name": "moreculling.toml",
           "type": "File",
           "artifact": {
-            "size": 561,
+            "size": 538,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/moreculling.toml",
             "path": "config/moreculling.toml"
           }
@@ -905,7 +905,7 @@
           "name": "NCR-Client.json",
           "type": "File",
           "artifact": {
-            "size": 591,
+            "size": 572,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/NoChatReports/NCR-Client.json",
             "path": "config/NoChatReports/NCR-Client.json"
           }
@@ -915,7 +915,7 @@
           "name": "NCR-Common.json",
           "type": "File",
           "artifact": {
-            "size": 237,
+            "size": 231,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/NoChatReports/NCR-Common.json",
             "path": "config/NoChatReports/NCR-Common.json"
           }
@@ -925,7 +925,7 @@
           "name": "NCR-ServerPreferences.json",
           "type": "File",
           "artifact": {
-            "size": 26,
+            "size": 24,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/NoChatReports/NCR-ServerPreferences.json",
             "path": "config/NoChatReports/NCR-ServerPreferences.json"
           }
@@ -935,7 +935,7 @@
           "name": "PaginatedAdvancements.json5",
           "type": "File",
           "artifact": {
-            "size": 338,
+            "size": 327,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/PaginatedAdvancements.json5",
             "path": "config/PaginatedAdvancements.json5"
           }
@@ -945,7 +945,7 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1210,
+            "size": 1163,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
@@ -955,7 +955,7 @@
           "name": "puzzle.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 536,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/puzzle.json",
             "path": "config/puzzle.json"
           }
@@ -975,7 +975,7 @@
           "name": "skyboxify.json",
           "type": "File",
           "artifact": {
-            "size": 165,
+            "size": 158,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/skyboxify.json",
             "path": "config/skyboxify.json"
           }
@@ -985,7 +985,7 @@
           "name": "sodium-extra-options.json",
           "type": "File",
           "artifact": {
-            "size": 2721,
+            "size": 2625,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/sodium-extra-options.json",
             "path": "config/sodium-extra-options.json"
           }
@@ -1005,7 +1005,7 @@
           "name": "sodium-options.json",
           "type": "File",
           "artifact": {
-            "size": 805,
+            "size": 776,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/sodium-options.json",
             "path": "config/sodium-options.json"
           }
@@ -1015,7 +1015,7 @@
           "name": "sodium-shadowy-path-blocks-options.json",
           "type": "File",
           "artifact": {
-            "size": 109,
+            "size": 105,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/sodium-shadowy-path-blocks-options.json",
             "path": "config/sodium-shadowy-path-blocks-options.json"
           }
@@ -1025,7 +1025,7 @@
           "name": "transition.json",
           "type": "File",
           "artifact": {
-            "size": 101,
+            "size": 97,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/transition.json",
             "path": "config/transition.json"
           }
@@ -1035,7 +1035,7 @@
           "name": "trender.json",
           "type": "File",
           "artifact": {
-            "size": 50,
+            "size": 47,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/trender.json",
             "path": "config/trender.json"
           }
@@ -1045,7 +1045,7 @@
           "name": "yacl.json5",
           "type": "File",
           "artifact": {
-            "size": 255,
+            "size": 250,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/yacl.json5",
             "path": "config/yacl.json5"
           }
@@ -1055,7 +1055,7 @@
           "name": "zoomify.json",
           "type": "File",
           "artifact": {
-            "size": 733,
+            "size": 708,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/config/zoomify.json",
             "path": "config/zoomify.json"
           }
@@ -1065,7 +1065,7 @@
           "name": "journeymap.core.config",
           "type": "File",
           "artifact": {
-            "size": 2889,
+            "size": 2798,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.core.config",
             "path": "journeymap/config/6.0/journeymap.core.config"
           }
@@ -1075,7 +1075,7 @@
           "name": "journeymap.fullmap.config",
           "type": "File",
           "artifact": {
-            "size": 1364,
+            "size": 1319,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.fullmap.config",
             "path": "journeymap/config/6.0/journeymap.fullmap.config"
           }
@@ -1085,7 +1085,7 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 2398,
+            "size": 2321,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
@@ -1095,7 +1095,7 @@
           "name": "journeymap.minimap2.config",
           "type": "File",
           "artifact": {
-            "size": 2413,
+            "size": 2336,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.minimap2.config",
             "path": "journeymap/config/6.0/journeymap.minimap2.config"
           }
@@ -1105,7 +1105,7 @@
           "name": "journeymap.rendering.config",
           "type": "File",
           "artifact": {
-            "size": 679,
+            "size": 663,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.rendering.config",
             "path": "journeymap/config/6.0/journeymap.rendering.config"
           }
@@ -1115,7 +1115,7 @@
           "name": "journeymap.topo.config",
           "type": "File",
           "artifact": {
-            "size": 970,
+            "size": 963,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.topo.config",
             "path": "journeymap/config/6.0/journeymap.topo.config"
           }
@@ -1125,7 +1125,7 @@
           "name": "journeymap.waypoint.config",
           "type": "File",
           "artifact": {
-            "size": 1445,
+            "size": 1402,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.waypoint.config",
             "path": "journeymap/config/6.0/journeymap.waypoint.config"
           }
@@ -1135,7 +1135,7 @@
           "name": "journeymap.webmap.config",
           "type": "File",
           "artifact": {
-            "size": 158,
+            "size": 154,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/journeymap/config/6.0/journeymap.webmap.config",
             "path": "journeymap/config/6.0/journeymap.webmap.config"
           }
@@ -1177,9 +1177,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 112,
+            "size": 287,
             "url": "https://github.com/mchdistro/leholchon/raw/main/servers/leholchon-1.21.11/files/servers.dat",
-            "MD5": "df16b711b4aa2fef5567c3cac9273dad",
+            "MD5": "3a0ec5e9a3e687f384657e481ce4c049",
             "path": "servers.dat"
           }
         },

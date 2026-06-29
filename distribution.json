@@ -13,7 +13,7 @@
       "description": "Minecraft 1.21.11 (Fabric v0.19.3)",
       "icon": "https://github.com/mchdistro/leholchon/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "142.248.228.14:25565",
+      "address": "play.cupchicken.kr:25565",
       "minecraftVersion": "1.21.11",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

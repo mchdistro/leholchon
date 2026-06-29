@@ -5,7 +5,7 @@
     "name": "leholchon",
     "description": "Minecraft 1.21.11 (Fabric v0.19.3)",
     "icon": "https://github.com/mchdistro/leholchon/raw/main/server-icon.png",
-    "address": "142.248.228.14:25565",
+    "address": "play.cupchicken.kr:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
